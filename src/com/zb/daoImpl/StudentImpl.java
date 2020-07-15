@@ -9,4 +9,5 @@ public class StudentImpl implements Student {
         System.out.println("增加成功");
     }
     //张博宇 1test
+    public void test(){}
 }
