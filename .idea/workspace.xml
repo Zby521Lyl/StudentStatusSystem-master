@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5700951-505f-4856-b482-21fd7e63f3f2" name="Default Changelist" comment="张博宇测试">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a5700951-505f-4856-b482-21fd7e63f3f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <workItem from="1594776456062" duration="2922000" />
       <workItem from="1594779410280" duration="2644000" />
       <workItem from="1594782393589" duration="261000" />
-      <workItem from="1594782669834" duration="227000" />
+      <workItem from="1594782669834" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="张博宇测试">
       <created>1594780001644</created>
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594782506163</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="张博宇测试">
+      <created>1594782945997</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594782945998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,18 +141,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="589" y="325" width="382" height="173" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1594777879577" />
-    <state x="581" y="303" width="373" height="253" key="Github.ShareDialog" timestamp="1594782920695">
+    <state x="581" y="303" width="373" height="253" key="Github.ShareDialog" timestamp="1594783470003">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="581" y="303" width="373" height="253" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594782920695" />
+    <state x="581" y="303" width="373" height="253" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1594783470003" />
     <state x="515" y="116" key="Github.UntrackedFilesDialog" timestamp="1594778439921">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="515" y="116" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594778439921" />
-    <state x="126" y="0" key="SettingsEditor" timestamp="1594782896280">
+    <state x="227" y="38" key="SettingsEditor" timestamp="1594783160727">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="126" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594782896280" />
+    <state x="227" y="38" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594783160727" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594782551557">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
