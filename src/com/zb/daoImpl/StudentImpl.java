@@ -8,7 +8,7 @@ public class StudentImpl implements Student {
     public void addStudent() {
         System.out.println("增加成功");
     }
-    //张博宇 test
+    //张博宇 test1
     @Override
     public boolean stuLogin(){
         return false;
