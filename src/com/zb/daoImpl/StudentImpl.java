@@ -8,9 +8,9 @@ public class StudentImpl implements Student {
     public void addStudent() {
         System.out.println("增加成功");
     }
+    //张博宇测试
     @Override
     public boolean stuLogin(){
-
         return false;
     }
 }
